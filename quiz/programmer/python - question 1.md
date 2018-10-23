@@ -1,5 +1,5 @@
 
-# Question 2 (python)
+# Question 1 (python)
 
 What will be printed to console after running this code?
 
