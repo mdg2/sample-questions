@@ -11,7 +11,7 @@ Answer # | Text
 
 Correct Answer #2 - "12" is the correct answer
 
-**TIP** Increase difficult by changing from multiple choice to numeric input.
+**TIP** Increase difficulty by changing from multiple choice to numeric input.
 
 Link to answer:
 [https://ide.geeksforgeeks.org/bPpQDTnVZt](https://ide.geeksforgeeks.org/bPpQDTnVZt)

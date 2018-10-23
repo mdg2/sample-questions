@@ -12,7 +12,7 @@ Answer # | Text
 
 Correct Answer #1 - "2" is the correct answer.  num++ will return the value of num before the increment.
 
-**TIP** Increase difficult by changing from multiple choice to numeric input.
+**TIP** Increase difficulty by changing from multiple choice to numeric input.
 
 Link to answer:
 [https://ide.geeksforgeeks.org/sW8IHa9Pqs](https://ide.geeksforgeeks.org/sW8IHa9Pqs)

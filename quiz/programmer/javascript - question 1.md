@@ -12,7 +12,7 @@ Answer # | Text
 
 Correct Answer #2 - "3" is the correct answer as the for loop will break/exit after the third iteration.
 
-**TIP** Increase difficult by changing from multiple choice to numeric input.
+**TIP** Increase difficulty by changing from multiple choice to numeric input.
 
 Link to answer:
 [https://ide.geeksforgeeks.org/tryit.php/BN2HMsrTvb](https://ide.geeksforgeeks.org/tryit.php/BN2HMsrTvb)
