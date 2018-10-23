@@ -1,7 +1,7 @@
 
 # Question 2 (javascript)
 
-What will be printed to console after running this code?
+What will be displayed in the DIV after running this code?
 
 Answer # | Text
 --- | ---
